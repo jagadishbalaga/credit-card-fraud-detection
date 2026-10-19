@@ -93,3 +93,10 @@ This project helped me understand how Machine Learning can be used to detect pot
 Balaga Jagadish
 
 Aspiring AI/ML Engineer
+
+
+
+<img width="738" height="365" alt="Screenshot 2026-10-19 131340" src="https://github.com/user-attachments/assets/0b18a9c9-f129-4eda-bb7b-cddf6630c888" />
+<img width="729" height="329" alt="Screenshot 2026-10-19 131331" src="https://github.com/user-attachments/assets/3bb4c9b8-b3f4-4b32-a334-ad55fe44f738" />
+<img width="605" height="156" alt="Screenshot 2026-10-19 131905" src="https://github.com/user-attachments/assets/9db60c59-f175-4ddb-9d33-4b53263c48f0" />
+
