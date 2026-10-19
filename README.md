@@ -1,4 +1,5 @@
 # Credit Card Fraud Detection Using Machine Learning
+<img width="647" height="331" alt="Screenshot 2026-10-19 131256" src="https://github.com/user-attachments/assets/df45f925-03d0-4c91-b003-ca169d0637ea" />
 
 ## 1. Project Overview
 
@@ -93,6 +94,10 @@ This project helped me understand how Machine Learning can be used to detect pot
 Balaga Jagadish
 
 Aspiring AI/ML Engineer
+
+<img width="647" height="331" alt="Screenshot 2026-10-19 131256" src="https://github.com/user-attachments/assets/8cda7370-817b-4608-ade3-08f5ea495ea3" />
+<img width="688" height="380" alt="Screenshot 2026-10-19 132106" src="https://github.com/user-attachments/assets/7dcadd55-b65c-4f5c-9f38-984db38f5917" />
+<img width="706" height="346" alt="Screenshot 2026-10-19 132056" src="https://github.com/user-attachments/assets/8973e2e6-2138-419d-a941-5d42f4a5b4c7" />
 
 <img width="737" height="202" alt="Screenshot 2026-10-19 132117" src="https://github.com/user-attachments/assets/ae5e4b2b-0273-4943-8fe7-a674af986e38" />
 
